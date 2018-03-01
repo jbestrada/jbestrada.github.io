@@ -38,7 +38,20 @@ I am a Research Fellow in Mechanical Engineering at the University of Michigan. 
 
 
 ## Selected publications
+(1 = These authors contributed equally.)
 
+1. __Estrada JB__, Barajas CR, Henann DL, Johnsen E, Franck C (2018). High strain-rate soft material characterization via inertial cavitation. _Journal of the Mechanics and Physics of Solids_ 112, 291-317.
+
+2. Bar-Kochba E, Scimone MT, __Estrada JB__, Franck C (2016). Strain and Rate-dependent Diffuse Axonal Injury Pathomorphology of 3D Neuron Cultures Under Compression. _Scientific Reports_ 6(30550).
+
+3. __Estrada JB<sup>1</sup>__, Bar-Kochba E<sup>1</sup>, Stout DA<sup>1</sup>, Toyjanova J, Kesari H, Reichner J, Franck C (2016). Mean deformation metrics for quantifying 3D cell-matrix interactions in the absence of material properties. _Proceedings of the National Academy of Sciences_ 113(11).
+
+4. __Estrada JB__, Franck C (2015). Intuitive interface for the quantitative evaluation of speckle patterns for use in digital image and volume correlation techniques _Journal of Applied Mechanics_ 82(9).
 
 ## Selected awards
 + The Outstanding Thesis Award, Brown School of Engineering, 2017
++ Brown Chapter of Sigma Xi Award for excellence in research, 2017
++ William N. Findley Award for best paper on Mechanical Behavior of Materials, Brown School of Engineering, 2016
++ Jacob K. Javits (GAANN) Fellowship, 2014-2015 and 2015-2016
++ NSF Graduate Research Fellowship Honorable Mention, 2012 and 2013
++ Award for Excellence, Brown University Graduate School, 2012
