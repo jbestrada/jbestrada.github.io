@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 name: Jon Estrada
-description: Welcome to the personal homepage of Jon Estrada
+description: Personal website for Jon Estrada
+
+# Google services
+google_analytics: UA-48509241-2
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md","LICENSE.md"]
+sass:
+  style: compressed
