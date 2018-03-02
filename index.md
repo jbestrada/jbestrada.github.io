@@ -10,9 +10,12 @@ layout: default
 ## Bio
 I am a Research Fellow in Mechanical Engineering at the University of Michigan. My current research involves experimental full-field techniques aimed at in vitro mechanical characterization, fatigue, and failure analysis of the anterior cruciate ligament in the knee. I'm interested generally in connecting mechanics to tissue deformation and failure, ranging from fatigue damage of ligaments to blunt- and blast-induced traumatic brain injury at a cellular level. 
 
+## Professional Appointments
+Research Fellow, University of Michigan, 2017-present
+
 ## Education
 <figure>
-	<!--<img src="img/BrownLogo.png" width="100" />-->
+	<!--<img src="img/brownlogo.png" width="100" />-->
 	<div class="centeredtext">	
 	<h3>Brown University</h3>
 	<figcaption>Ph.D., Solid Mechanics, 2017</figcaption>
