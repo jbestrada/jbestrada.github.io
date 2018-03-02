@@ -1,10 +1,12 @@
----
+<!-- ---
 layout: default
----
+--- -->
 
 <div class="centeredtext tagline">Research Fellow, University of Michigan<br />Mechanical Engineering</div>
+<div style="text-align:center">
 <div id="mugshot">
 	<img src="img/jestrada.png" width="240" height="240" class="rounded8" />
+</div>
 </div>
 
 ## Bio
