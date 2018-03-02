@@ -18,7 +18,6 @@ I am a Research Fellow in Mechanical Engineering at the University of Michigan. 
 	<figcaption>Research Fellow, Mechanical Engineering, 2017-present</figcaption>
 	</div>
 </figure>
-Research Fellow, University of Michigan, 2017-present
 
 ## Education
 <figure>
