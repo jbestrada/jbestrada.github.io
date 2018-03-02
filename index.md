@@ -12,7 +12,7 @@ layout: default
 </div>
 
 ## Bio
-I am a Research Fellow in Mechanical Engineering at the University of Michigan. My current research involves experimental full-field techniques aimed at in vitro mechanical characterization, fatigue, and failure analysis of the anterior cruciate ligament in the knee. I'm interested generally in connecting mechanics to tissue deformation and failure, ranging from fatigue damage of ligaments to blunt- and blast-induced traumatic brain injury at a cellular level. 
+I am a Postdoctoral Research Fellow in Mechanical Engineering at the University of Michigan. My current research involves experimental full-field techniques aimed at in vitro mechanical characterization, fatigue, and failure analysis of the anterior cruciate ligament in the knee. I'm interested generally in connecting mechanics to tissue deformation and failure, ranging from fatigue damage of ligaments to blunt- and blast-induced traumatic brain injury at a cellular level. 
 
 ## Professional Appointments
 <figure>
