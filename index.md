@@ -38,8 +38,13 @@ I am a Research Fellow in Mechanical Engineering at the University of Michigan. 
 </figure>
 
 ## Teaching Philosophy
-<!---My teaching philosophy is simple - engineering education spans all age groups. My own first contact with engineering came in the form of building towers with my siblings out of K'nex, and to get involved, I've run a demonstration of liquid nitrogen for a Kindergarten class and -->
-<!-- Ideas: French-American school demo (https://youtu.be/ET0rzPNOTpI), developed the Lincoln School class (https://news.brown.edu/articles/2016/05/lincoln), gonna read to preschoolers about science, ran 3.091 recitation twice a week as a senior, developed labs for experimental mechanics and mechanics of solids and structures and intro to engineering, developed/taught summer@Brown for 5 summers, started two seminar series (grad and postdoc)-->
+My teaching philosophy is simple - engineering, like any good structure, has a solid personal foundation with tiers of increasing refinement over years of education. To maximize the potential of our future engineers, we focus separately on the needs of primary, secondary, and post-secondary students. 
+
+It's imperative to get, and keep, kids excited about science from a young age. From running demonstrations for Kindergarteners about the wonders of [liquid nitrogen](https://youtu.be/ET0rzPNOTpI?t=115) to simply reading science books to preschoolers here in Michigan, I care greatly about fostering good science fundamentals among not just those who will our future engineers and scientists, but every individual student. 
+
+While in high school, a lecture series in Cosmology taught by a grad student was one of the formative, convincing experiences for my career in academia. Thus, I have a personal drive to keep high school programs strong, which I've done by not only designing and sole-teaching five summers of classes, but additionally team-revamping the [engineering curriculum](https://precollege.brown.edu/catalog/?p%5B%5D=1&t%5B%5D=33) in 2015 for Summer@Brown to create a modular multi-week engineering program for high school students. In 2016, I [redesigned and instructed](https://news.brown.edu/articles/2016/05/lincoln) a semester-long Introduction to Engineering partnership with the Lincoln School to center around design and prototyping. 
+
+At the college level, serving as a recitation instructor twice a week for two semesters of 3.091 - Introduction to Solid State Chemistry as a senior at MIT was the affirming moment of my academic path. Since then, I've been a teaching instructor for the entire continuum of first-year engineers to graduate students, finding particular purpose in debugging Matlab code with frustrated students and designing/constructing labs. However, learning is not, and should not be restricted the class environment, and so I've founded/organized two seminars - the Continua Research Society at Brown, aimed as an informal seminar series for Solids/Fluids/Materials graduate students, and the [MPACE Postdoc Seminar Series](https://mpace.engin.umich.edu/mpace-calendar/) here at Michigan.
 
 ## Research Vision
 
