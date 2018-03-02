@@ -4,12 +4,13 @@ layout: default
 
 # Jonathan B. Estrada
 
-<div class="centeredtext tagline">Research Fellow, University of Michigan<br />Mechanical Engineering</div>
 <div style="text-align:center">
 <div id="mugshot">
 	<img src="img/jestrada.png" width="240" height="240" class="rounded8" />
 </div>
+<div class="centeredtext tagline">Research Fellow, University of Michigan<br />Mechanical Engineering</div>
 </div>
+
 
 ## Bio
 I am a Postdoctoral Research Fellow in Mechanical Engineering at the University of Michigan. My current research involves experimental full-field techniques aimed at in vitro mechanical characterization, fatigue, and failure analysis of the anterior cruciate ligament in the knee. I'm interested generally in connecting mechanics to tissue deformation and failure, ranging from fatigue damage of ligaments to blunt- and blast-induced traumatic brain injury at a cellular level. 
