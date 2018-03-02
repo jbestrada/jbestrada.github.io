@@ -49,6 +49,7 @@ At the college level, serving as a recitation instructor twice a week for two se
 ## Research Vision
 
 
+
 ## Selected publications
 (1 = These authors contributed equally.)
 
@@ -67,3 +68,8 @@ At the college level, serving as a recitation instructor twice a week for two se
 + Jacob K. Javits (GAANN) Fellowship, 2014-2015 and 2015-2016
 + NSF Graduate Research Fellowship Honorable Mention, 2012 and 2013
 + Award for Excellence, Brown University Graduate School, 2012
+
+## Professional Affiliations
++ Biophysical Society
++ Society of Engineering Science
++ Society of Experimental Mechanics
