@@ -50,9 +50,15 @@ While in high school, a lecture series in Cosmology taught by a grad student was
 
 At the college level, serving as a recitation instructor twice a week for two semesters of 3.091 - Introduction to Solid State Chemistry as a senior at MIT was the affirming moment of my academic path. Since then, I've been a teaching instructor for the entire continuum of first-year engineers to graduate students, finding particular purpose in debugging Matlab code with frustrated students and designing/constructing experiments and labs. However, learning is not, nor should be, restricted the class environment, and so I've founded/organized two seminars - the Continua Research Society at Brown, aimed as an informal weekly seminar series for Solids/Fluids/Materials graduate students, and the [MPACE Postdoc Seminar Series](https://mpace.engin.umich.edu/mpace-calendar/) here at Michigan. 
 
-## Research Vision
+## Current Research
 
+Understanding how and why biological tissues ranging from the brain to ligaments become damaged during injurious events centers on two principal thrusts - understanding and _modeling complexity_ of these biological tissues and _experimentally testing them at relevant strain rates_. 
 
+To date, my research has focused on cell injury criteria in injurious events such as inertial microcavitation bubbles in, and rapid compression of, neural cell cultures, and is presently expanding to _in vitro_ testing (and subsequent constitutive modeling) of ligaments using magnetic resonance imaging. 
+
+<!--I aim to expand my research into the following directions.-->
+
+<!--1. __Multi-rate constitutive modeling of the brain__-->
 
 ## Selected publications
 (1 = These authors contributed equally.)
