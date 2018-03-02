@@ -38,7 +38,7 @@ I am a Research Fellow in Mechanical Engineering at the University of Michigan. 
 </figure>
 
 ## Teaching Philosophy
-My teaching philosophy is simple - engineering, like any good structure, has a solid personal foundation with tiers of increasing refinement over years of education. To maximize the potential of our future engineers, we focus separately on the needs of primary, secondary, and post-secondary students. 
+My teaching philosophy is simple - engineering, like any good structure, has a solid personal foundation with tiers of increasing refinement over years of education. To maximize the potential of our future engineers, we need to focus separately on the needs of primary, secondary, and post-secondary students. 
 
 It's imperative to get (and keep!) kids excited about science from a young age. From running demonstrations for Kindergarteners about the wonders of [liquid nitrogen](https://youtu.be/ET0rzPNOTpI?t=115) to simply reading science books to preschoolers at Gretchen's House here in Michigan, I care greatly about fostering good science fundamentals among not just those who will be our future engineers and scientists, but every individual student. 
 
