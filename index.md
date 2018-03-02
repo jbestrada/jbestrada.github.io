@@ -28,7 +28,7 @@ I am a Research Fellow in Mechanical Engineering at the University of Michigan. 
 	<figcaption>Sc.M., Solid Mechanics, 2013</figcaption>
 	</div>
 </figure>
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 <figure>
 	<!--<img src="img/MITlogo.png" width="90" />-->
 	<div class="centeredtext">
