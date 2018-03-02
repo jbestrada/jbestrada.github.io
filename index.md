@@ -1,6 +1,6 @@
-<!-- ---
+---
 layout: default
---- -->
+---
 
 <div class="centeredtext tagline">Research Fellow, University of Michigan<br />Mechanical Engineering</div>
 <div style="text-align:center">
