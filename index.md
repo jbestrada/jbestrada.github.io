@@ -2,9 +2,8 @@
 layout: default
 ---
 
-# Jonathan B. Estrada
-
 <div style="text-align:center">
+	<h1>Jonathan B. Estrada</h1>
 <div id="mugshot">
 	<img src="img/jestrada.png" width="240" height="240" class="rounded8" />
 </div>
