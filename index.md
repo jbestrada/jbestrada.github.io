@@ -12,7 +12,7 @@ layout: default
 
 
 ## Bio
-I am a Postdoctoral Research Fellow in Mechanical Engineering at the University of Michigan. My current research involves experimental full-field techniques aimed at in vitro mechanical characterization, fatigue, and failure analysis of the anterior cruciate ligament in the knee. I'm interested generally in connecting mechanics to tissue deformation and failure, ranging from fatigue damage of ligaments to blunt- and blast-induced traumatic brain injury at a cellular level. 
+I am a Postdoctoral Research Fellow in Mechanical Engineering at the University of Michigan. My current research involves experimental full-field techniques aimed at in vitro mechanical characterization, fatigue, and failure analysis of soft materials and tissues, such as the anterior cruciate ligament in the knee. I'm interested generally in connecting mechanics to soft material/tissue deformation and failure, ranging from fatigue damage of ligaments to blunt- and blast-induced traumatic brain injury at a cellular level. 
 
 ## Professional Appointments
 <figure>
@@ -20,6 +20,7 @@ I am a Postdoctoral Research Fellow in Mechanical Engineering at the University 
 	<div class="centeredtext">	
 	<h3>University of Michigan</h3>
 	<figcaption>Research Fellow, Mechanical Engineering, 2017-present</figcaption>
+	<figcaption><i>Advisor: Ellen Arruda</i></figcaption>
 	</div>
 </figure>
 
@@ -29,6 +30,7 @@ I am a Postdoctoral Research Fellow in Mechanical Engineering at the University 
 	<div class="centeredtext">	
 	<h3>Brown University</h3>
 	<figcaption>Ph.D., Solid Mechanics, 2017</figcaption>
+	<figcaption><i>Advisor: Christian Franck</i></figcaption>
 	<figcaption>Sc.M., Solid Mechanics, 2013</figcaption>
 	</div>
 </figure>
