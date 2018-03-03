@@ -14,6 +14,9 @@ layout: default
 ## Bio
 I am a Postdoctoral Research Fellow in Mechanical Engineering at the University of Michigan. My current research involves experimental full-field techniques aimed at in vitro mechanical characterization, fatigue, and failure analysis of soft materials and tissues, such as the anterior cruciate ligament in the knee. I'm interested generally in connecting mechanics to soft material/tissue deformation and failure, ranging from fatigue damage of ligaments to blunt- and blast-induced traumatic brain injury at a cellular level. 
 
+## Curriculum Vitae
+[View my complete CV here](http://jbestrada.github.io/Estrada CV.pdf).
+ 
 ## Professional Appointments
 <figure>
 	<!--<img src="img/michiganlogo.png" width="100" />-->
