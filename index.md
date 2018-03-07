@@ -23,7 +23,7 @@ I am a Postdoctoral Research Fellow in Mechanical Engineering at the University 
 	<div class="centeredtext">	
 	<h3>University of Michigan</h3>
 	<figcaption>Research Fellow, Mechanical Engineering, 2017-present</figcaption>
-	<figcaption><i>Research Advisor: Ellen Arruda</i></figcaption>
+	<figcaption><i>Research Advisor: [Ellen Arruda](https://sites.google.com/umich.edu/thearrudagroup)</i></figcaption>
 	</div>
 </figure>
 
@@ -33,17 +33,17 @@ I am a Postdoctoral Research Fellow in Mechanical Engineering at the University 
 	<div class="centeredtext">	
 	<h3>Brown University</h3>
 	<figcaption>Ph.D., Solid Mechanics, 2017</figcaption>
-	<figcaption><i>Research Advisor: Christian Franck</i></figcaption>
+	<figcaption><i>Research Advisor: [Christian Franck](https://www.franck.engin.brown.edu/)</i></figcaption>
 	<figcaption>Sc.M., Solid Mechanics, 2013</figcaption>
 	</div>
 </figure>
-<p>&nbsp;</p> 
+
 <figure>
 	<!--<img src="img/MITlogo.png" width="90" />-->
 	<div class="centeredtext">
 	<h3>Massachusetts Institute of Technology</h3>
 	<figcaption>B.S., Materials Science and Engineering, 2011</figcaption>
-	<figcaption><i>Research Advisor: Krystyn Van Vliet</i></figcaption>
+	<figcaption><i>Research Advisor: [Krystyn Van Vliet](http://kjvvgroup.mit.edu/)</i></figcaption>
 	</div>
 </figure>
 
